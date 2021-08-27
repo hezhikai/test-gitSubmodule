@@ -1,0 +1,23 @@
+{
+  "name": "test-gitsubmodule",
+  "version": "1.0.0",
+  "description": "gitSubmodule 子模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhikai/test-gitSubmodule.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hezhikai/test-gitSubmodule/issues"
+  },
+  "homepage": "https://github.com/hezhikai/test-gitSubmodule#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
